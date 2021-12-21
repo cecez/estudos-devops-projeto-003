@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/ola', function () {
-    return 'Olá mundo!';
+    return '--- Olá mundo! ---';
 });
